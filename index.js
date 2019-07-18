@@ -8,22 +8,27 @@ const time = 0 + ":" + 19;
 
 // Add list of names here
 const namesList = [
-	'Constanza Beccan',
-	'Dony Cisneros',
-	'Ayelen María Guini', 
-	'Belén Rey',
-	'Catalina Syddall',
-	'Lucía Wainfeld',
-    'Mercedes Mena',
-    'Jessica Gomez',
-    'Leandro Vaiser',
-    'Aixa Halac',
-    'Boris Daniel Sortino',
-    'Sonia Morales',
-    'Julieta Juarez',
-    'Joaquín Vicente',
-    'Facu Saldaña',
-    'Matias Mendoza'
+	'Joana Mansilla',
+	'Rocío Vaamonde',
+	'Lula Díaz',
+	'Silvana Higa',
+	'Leila Mattone',
+	'Julieta Pereyra Boue',
+	'Joy Mansilla',
+	'Maria Lourdes Ramirez',
+	'Bárbara Olivera',
+	'Vanesa Berrutto',
+	'Maite Busto',
+	'Sofia Grimmer',
+	'Luisina Reinoso',
+	'Julieta Gutierrez',
+	'Maria Belén Gebel',
+	'Gabriela Martínez',
+	'Luciana Alejandra Urueña',
+	'Verónica Contreras',
+	'Micaela Benedetti',
+	'Flavia Carpio Gonzalez',
+	'Tatiana Miranda'
 ];
 
 // Default variables
